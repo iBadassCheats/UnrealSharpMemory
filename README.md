@@ -1,4 +1,4 @@
-# UnrealSharpMemory
+# UnrealSharpMemory (COMING SOON)
  UnrealSharpMemory is a user friendly helper framework to create extra sensory perception, radar, and other tools and game mods for UnrealEngine games.
 
 # What is this?
