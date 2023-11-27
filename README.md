@@ -2,7 +2,7 @@
  UnrealSharpMemory is a user friendly helper framework to create extra sensory perception, radar, and other tools and game mods for UnrealEngine games.
 
 # What is this?
- Unreal Sharp is written in C#, and works by using reading process memory.
+ Unreal Sharp is written in C#, and works by using read/write process memory.
  
 # How does this work
  This project heavily relies on Unreal Engine's reflection system, using strings to dump out game info.
