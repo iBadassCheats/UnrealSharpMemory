@@ -1,0 +1,11 @@
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\bin\Debug\net7.0-windows10.0.22621.0\UnrealSharpMemory.deps.json
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\bin\Debug\net7.0-windows10.0.22621.0\UnrealSharpMemory.dll
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\bin\Debug\net7.0-windows10.0.22621.0\UnrealSharpMemory.pdb
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0-windows10.0.22621.0\UnrealSharpMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0-windows10.0.22621.0\UnrealSharpMemory.AssemblyInfoInputs.cache
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0-windows10.0.22621.0\UnrealSharpMemory.AssemblyInfo.cs
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0-windows10.0.22621.0\UnrealSharpMemory.csproj.CoreCompileInputs.cache
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0-windows10.0.22621.0\UnrealSharpMemory.dll
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0-windows10.0.22621.0\refint\UnrealSharpMemory.dll
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0-windows10.0.22621.0\UnrealSharpMemory.pdb
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0-windows10.0.22621.0\ref\UnrealSharpMemory.dll

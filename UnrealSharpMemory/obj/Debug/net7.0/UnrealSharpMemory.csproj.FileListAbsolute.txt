@@ -1,0 +1,4 @@
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0\UnrealSharpMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0\UnrealSharpMemory.AssemblyInfoInputs.cache
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0\UnrealSharpMemory.AssemblyInfo.cs
+C:\Users\Unk0wn Us3r\Documents\UnrealSharp\UnrealSharpMemory\obj\Debug\net7.0\UnrealSharpMemory.csproj.CoreCompileInputs.cache

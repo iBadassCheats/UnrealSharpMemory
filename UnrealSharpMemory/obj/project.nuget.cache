@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qpLLEgNEd7xuNZaQp76QZwsw/MKV2b8/MrAQ56WHn3MrJhTgHruDVTz7rohx3tKswo99VWULpro1Ko9+6KJEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Unk0wn Us3r\\Documents\\UnrealSharp\\UnrealSharpMemory\\UnrealSharpMemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Unk0wn Us3r\\.nuget\\packages\\coroutine\\2.1.5\\coroutine.2.1.5.nupkg.sha512",
+    "C:\\Users\\Unk0wn Us3r\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Unk0wn Us3r\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.29\\microsoft.windows.sdk.net.ref.10.0.22621.29.nupkg.sha512"
+  ],
+  "logs": []
+}
